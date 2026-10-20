@@ -1,4 +1,3 @@
-
 const PROJECT_FORMAT = "crank-session";
 const PROJECT_VERSION = "2.3.0";
 
